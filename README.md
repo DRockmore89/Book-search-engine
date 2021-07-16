@@ -17,7 +17,7 @@ Technologies that i've used
 * CSS
 * React.js
 * Express.js
-*  Apollo Server
+* Apollo Server
 * Graphql
 * MondoDB
 
